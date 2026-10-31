@@ -1,0 +1,13 @@
+purchase_link,vendor,component,quantity,price_usd,purpose
+https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html,Seeed Studio,XIAO ESP32S3 Sense,1,13.99,"Camera, microphone, Bluetooth and main controller"
+https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html,Seeed Studio,L76K GPS module,1,10.90,Records vehicle location
+https://www.adafruit.com/product/5367,Adafruit,5V 5W solar panel,1,34.95,Provides solar power
+https://www.adafruit.com/product/6106,Adafruit,Solar charger with 5V boost,1,8.95,Charges battery and powers circuit
+https://www.adafruit.com/product/354,Adafruit,3.7V 4400mAh battery,1,19.95,Stores energy for use without sunlight
+https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/112990066/10290294,DigiKey,32GB microSD card,1,10.00,Stores recordings and location data; estimated price
+https://www.adafruit.com/product/758,Adafruit,40-piece jumper wire pack,1,3.95,Connects components
+https://www.adafruit.com/product/4474,Adafruit,USB-A to USB-C cable,1,4.95,Uploads code and powers prototype during testing
+https://www.adafruit.com/product/368,Adafruit,DC power adapter,1,2.00,Connects solar panel to charger
+https://www.adafruit.com/product/903,Adafruit,Project enclosure,1,9.95,Holds electronics; listed as out of stock
+,Local supplier,Mounting bracket and screws,1,10.00,Secures camera and panel; estimated price
+,,TOTAL,,129.59,Excludes shipping and tax
